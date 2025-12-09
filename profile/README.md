@@ -1,4 +1,7 @@
-# <img src="logo.png" width="30" height="30" align="center" style="margin-right: 10px;"> Millennial Works (밀레니얼웍스)
+<div align="center">
+  <img src="logo.png" width="200" style="margin-bottom: 20px;">
+  <h1>Millennial Works (밀레니얼웍스)</h1>
+</div>
 
 > **AI & Virtual Content Creative Group**
 >
@@ -6,7 +9,7 @@
 
 ## 🏢 About Us
 
-**밀레니얼웍스(Millennial Works)**는 생성형 AI와 3D 버추얼 기술을 기반으로 K-컬처를 전 세계에 알리는 글로벌 콘텐츠 기업입니다.
+**밀레니얼웍스(Millennial Works)** 는 생성형 AI와 3D 버추얼 기술을 기반으로 K-컬처를 전 세계에 알리는 글로벌 콘텐츠 기업입니다.
 우리는 상상을 현실로 만드는 기술을 통해 새로운 경험과 가치를 제공합니다.
 
 ## 🚀 Key Services
