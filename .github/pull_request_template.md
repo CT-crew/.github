@@ -1,20 +1,22 @@
-## 📝 Description
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
+## 📝 설명
+변경 사항에 대한 요약과 해결된 이슈를 포함해주세요.
 
-## 🔗 Related Issue
-Fixes # (issue)
+## 🔗 관련 이슈
+<!-- 
+ - #1
+ - #2
+ -->
 
-## 🛠️ Type of Change
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] 📚 Documentation update
+## 🛠️ 변경 유형
+- [ ] ✨ 새로운 기능 <!--(새로운 기능을 추가하는 작업)-->
+- [ ] 🐛 버그 수정 <!--(기존 기능의 문제를 해결하는 작업)-->
+- [ ] 📚 문서 업데이트 <!--(문서작업)-->
+- [ ] 🚀 리팩토링 <!--(코드의 구조를 개선하는 작업)-->
 
-## ✅ Checklist:
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+## ✅ 체크리스트:
+- [ ] 이 프로젝트의 코드 스타일을 준수했습니다.
+- [ ] 내 코드를 스스로 검토했습니다.
+- [ ] 이해하기 어려운 부분에 주석을 작성했습니다.
+- [ ] 수정 사항으로 인한 부작용이 발생하지 않음을 확인했습니다.
+<!-- 필요 시 추가 -->
+<!-- - [ ] 신규 및 기존 단위 테스트가 로컬에서 통과했습니다. -->

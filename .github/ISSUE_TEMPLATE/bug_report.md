@@ -1,32 +1,33 @@
 ---
-name: 🐛 Bug Report
-about: Create a report to help us improve
+name: 🐛 버그 제보
+about: 버그를 제보하여 서비스 개선을 도와주세요.
 title: "[BUG] "
 labels: bug
 assignees: ''
 
 ---
 
-## 🐛 Bug Description
-A clear and concise description of what the bug is.
+## 🐛 버그 설명
+버그가 무엇인지 명확하고 간결하게 설명해주세요.
 
-## 🔄 Reproduction Steps
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See error
+## 🔄 재현 방법
+동작을 재현하는 단계:
+1. '...'로 이동
+2. '...' 클릭
+3. '...'로 스크롤
+4. 오류 확인
 
-## 🤔 Expected Behavior
-A clear and concise description of what you expected to happen.
+## 🤔 예상 동작
+정상적으로 동작했을때의 예상 동작에 대해 명확하고 간결하게 설명해주세요.
 
-## 📸 Screenshots
-If applicable, add screenshots to help explain your problem.
+## 📸 스크린샷
+가능하다면 문제를 설명하는 데 도움이 되는 스크린샷을 추가해주세요.
+<!-- 없을 시 제거 -->
 
-## 💻 Environment
- - OS: [e.g. macOS, Windows]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 💻 환경
+ <!-- - OS: [예: macOS, Windows] -->
+ <!-- - 브라우저: [예: chrome, safari] -->
+ <!-- - 버전: [예: 22] -->
 
-## 📝 Additional Context
-Add any other context about the problem here.
+## 📝 추가 내용
+여기에 문제에 대한 추가적인 내용을 작성해주세요.

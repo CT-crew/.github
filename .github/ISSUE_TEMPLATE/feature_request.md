@@ -1,20 +1,21 @@
 ---
-name: 💡 Feature Request
-about: Suggest an idea for this project
+name: 💡 기능 제안
+about: 프로젝트를 위한 아이디어를 제안해주세요.
 title: "[FEAT] "
 labels: enhancement
 assignees: ''
 
 ---
 
-## 💡 Feature Description
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 💡 기능 설명
+어떤 문제가 있는지 명확하고 간결하게 설명해주세요.
+<!-- 예: [...] 할 때 문제가 있었습니다. -->
 
-## 🚀 Proposed Solution
-A clear and concise description of what you want to happen.
+## 🚀 제안 솔루션
+원하는 결과에 대해 명확하고 간결하게 설명해주세요.
 
-## 🔄 Alternatives Considered
-A clear and concise description of any alternative solutions or features you've considered.
+## 🔄 고려한 대안
+고려해본 대안이나 다른 기능이 있다면 명확하고 간결하게 설명해주세요.
 
-## 📝 Additional Context
-Add any other context or screenshots about the feature request here.
+## 📝 추가 내용
+기능 요청에 대한 추가적인 내용이나 스크린샷을 여기에 작성해주세요.
