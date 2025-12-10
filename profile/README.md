@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" width="200" style="margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/1b6c6884-776e-4f44-a3f0-cb7b44ccd863" width="200" style="margin-bottom: 20px;">
   <h1>Millennial Works (밀레니얼웍스)</h1>
 </div>
 
